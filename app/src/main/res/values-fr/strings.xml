@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToutImmobilier</string>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="action_youtube">Annonces Video</string>
+    <string name="action_new">Paramètres</string>
+    <string name="no_connexion">Impossible d\'établir la connexion avec le serveur</string>
+    <string name="search">Rechercher</string>
+
+    <string-array name="steps">
+        <item>\u25cf \u25cb \u25cb \u25cb \u25cb \u25cb</item>
+        <item>\u25cb \u25cf \u25cb \u25cb \u25cb \u25cb</item>
+        <item>\u25cb \u25cb \u25cf \u25cb \u25cb \u25cb</item>
+        <item>\u25cb \u25cb \u25cb \u25cf \u25cb \u25cb</item>
+        <item>\u25cb \u25cb \u25cb \u25cb \u25cf \u25cb </item>
+        <item>\u25cb \u25cb \u25cb \u25cb  \u25cb \u25cf</item>
+    </string-array>
+
+</resources>
